@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\G211210069-Hüseyin Akbal-Odev2-PG\AralikOdev2\Kaynak.cpp(25,18): warning C4244: 'return': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  AralikOdev2.vcxproj -> C:\Users\Husey\OneDrive\Masaüstü\1.sınıf\Programlama Giriş\G211210069-Hüseyin Akbal-Odev2-PG\x64\Debug\AralikOdev2.exe
